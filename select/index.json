@@ -1,0 +1,144 @@
+{
+  "version": 1,
+  "base_track": "heart pt. 6",
+  "base_artist": "Kendrick Lamar",
+  "createdAt": "2025-12-30T14:44:42.707027Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Change Of Heart Pt. 2",
+      "artist": "The Vaccines",
+      "has_synced": false,
+      "path": "select/01_Change_Of_Heart_Pt._2_The_Vaccines.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Hole In My Heart - Pt. 1",
+      "artist": "Wishbone Ash",
+      "has_synced": true,
+      "path": "select/02_Hole_In_My_Heart_-_Pt._1_Wishbone_Ash.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Change of Heart, Pt. 2",
+      "artist": "The Vaccines",
+      "has_synced": true,
+      "path": "select/03_Change_of_Heart,_Pt._2_The_Vaccines.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Circus Heart Pt.1",
+      "artist": "Mal Blum",
+      "has_synced": true,
+      "path": "select/04_Circus_Heart_Pt.1_Mal_Blum.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Circus Heart Pt. 2",
+      "artist": "Mal Blum",
+      "has_synced": true,
+      "path": "select/05_Circus_Heart_Pt._2_Mal_Blum.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "The Heart, Pt. 3",
+      "artist": "Kendrick Lamar feat. Ab-Soul & Jay Rock",
+      "has_synced": false,
+      "path": "select/06_The_Heart,_Pt._3_Kendrick_Lamar_feat._Ab-Soul_&_Jay_Rock.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "The Heart, Pt. 3",
+      "artist": "Kendrick Lamar",
+      "has_synced": false,
+      "path": "select/07_The_Heart,_Pt._3_Kendrick_Lamar.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "The Heart, Pt. 3",
+      "artist": "Kendrick Lamar, Ab-Soul & Jay Rock",
+      "has_synced": false,
+      "path": "select/08_The_Heart,_Pt._3_Kendrick_Lamar,_Ab-Soul_&_Jay_Rock.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "The Tell Tale Heart Pt. 1",
+      "artist": "Lou Reed",
+      "has_synced": false,
+      "path": "select/09_The_Tell_Tale_Heart_Pt._1_Lou_Reed.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "The Tell-Tale Heart, Pt. 1",
+      "artist": "Lou Reed",
+      "has_synced": false,
+      "path": "select/10_The_Tell-Tale_Heart,_Pt._1_Lou_Reed.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "The Heart, Pt. 3",
+      "artist": "Kendrick Lamar feat. Ab‐Soul, Jay Rock",
+      "has_synced": true,
+      "path": "select/11_The_Heart,_Pt._3_Kendrick_Lamar_feat._Ab‐Soul,_Jay_Rock.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "A Bad Wind Blows in My Heart Pt. 3",
+      "artist": "Bill Ryder-Jones",
+      "has_synced": true,
+      "path": "select/12_A_Bad_Wind_Blows_in_My_Heart_Pt._3_Bill_Ryder-Jones.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "The Heart Pt. 3",
+      "artist": "Kendrick Lamar",
+      "has_synced": false,
+      "path": "select/13_The_Heart_Pt._3_Kendrick_Lamar.txt"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "The Tell-Tale Heart Pt. 2",
+      "artist": "Lou Reed",
+      "has_synced": true,
+      "path": "select/14_The_Tell-Tale_Heart_Pt._2_Lou_Reed.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Ugly Human Heart Pt. 1",
+      "artist": "Daniel Romano",
+      "has_synced": true,
+      "path": "select/15_Ugly_Human_Heart_Pt._1_Daniel_Romano.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Ugly Human Heart Pt. 1",
+      "artist": "Romano, Daniel",
+      "has_synced": true,
+      "path": "select/16_Ugly_Human_Heart_Pt._1_Romano,_Daniel.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "heart pt. 6",
+      "artist": "Kendrick Lamar",
+      "has_synced": false,
+      "path": "select/pl_01_heart_pt._6_Kendrick_Lamar.txt"
+    }
+  ]
+}
